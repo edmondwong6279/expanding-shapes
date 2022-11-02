@@ -1,0 +1,20 @@
+@import "src/styles/main";
+
+.container {
+	position: relative;
+	width: 1000px;
+	height: 700px;
+	align-items: center;
+	justify-content: center;
+	margin: 5px auto;
+	justify-items: center;
+
+	.header {
+		text-align: center;
+		user-select: none;
+	}
+
+	.canvas {
+		border: solid 1px blue;
+	}
+}
