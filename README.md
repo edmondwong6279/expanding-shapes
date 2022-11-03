@@ -1,10 +1,17 @@
-# Ed Wong Portfolio
+# Expanding chapes canvas project
 
-Main starting page that presents my portfolio:
-- About:
-    - Brief description of self and experience
-    - CV as a PDF linked
-    - Hobbies and interests
-- Personal Projects
-- Work Projects
-- Contact details
+Rendering randomised shapes on a canvas element in react. Randomised variables:
+- duration of expansion
+- size
+- number of sides on the regular polygon
+- ease type
+- opacity
+
+## Running the application:
+Developed using node 16.17.1.
+
+```yarn install```
+
+```yarn build```
+
+```yarn start```
